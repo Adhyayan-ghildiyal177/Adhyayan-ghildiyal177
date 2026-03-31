@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adhyayan-ghildiyal177&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adhyayanghildiyal177@gmail.com&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=adhyayan-ghildiyal177&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Day Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
