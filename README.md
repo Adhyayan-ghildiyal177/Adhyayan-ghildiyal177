@@ -7,10 +7,15 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adhyayan-ghildiyal177&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adhyayan-ghildiyal177&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adhyayan-ghildiyal177&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=adhyayan-ghildiyal177&theme=neon&hide_border=false&include_all_commits=true&count_private=false)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=adhyayan-ghildiyal177&theme=neon&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhyayan-ghildiyal177&theme=neon&hide_border=false&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adhyayan-ghildiyal177&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
