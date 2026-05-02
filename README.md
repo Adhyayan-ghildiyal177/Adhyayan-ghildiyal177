@@ -1,15 +1,8 @@
 
 
-
-
-
-
-
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+ABU+SAID;Fullstack+Engineer+Here+🚀;Let’s+Build+Something+Cool!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+Adhyaya-ghildiyal177;Fullstack+Engineer+Here+🚀;Let’s+Build+Something+Cool!&center=true&size=30">
   </a>
 </h1>
 
@@ -25,7 +18,7 @@
 - 🌱 On a mission to master Fullstack Engineering ❤️
 - 💻 Love building clean, scalable, production-ready apps
 - 📖 Always diving into docs like it’s my daily newspaper 📰
-- ☁️ 2024 Goal: Level up on AWS & Azure
+- ☁️ 2026 Goal: Level up on AWS & Azure
 - 🤯 Fun Fact: `==` and `===` — not the same. JS be wild.
 
 ---
@@ -72,7 +65,7 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Adhyayan-ghildiyal177's GitHub status" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=said7388&theme=algolia" alt="said7388" />
